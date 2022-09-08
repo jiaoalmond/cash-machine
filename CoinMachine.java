@@ -1,4 +1,4 @@
-//Name: Jinyu JIAO    Student ID: 260881046
+//Name: Jay Jay
 public class CoinMachine {
 
 	public static void main(String args[]) {
